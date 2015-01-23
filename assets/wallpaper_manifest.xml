@@ -4,58 +4,58 @@
     <category name="Random" >
 	
         <wallpaper
-            author="Ashish Bansal"
-			title="OtherWallpaper"
-            url="http://sonic-developers.com/wallpapers/SOKP/car.jpg" />
+            author="Vishal"
+			title="Minimalistic1"
+            url="http://sonic-developers.com/wallpapers/SOKP/m1.jpg" />
         
 		<wallpaper
-            author="mythi "
-			title="Street"
-            url="http://sonic-developers.com/wallpapers/SOKP/m1.jpg" />
-
-		<wallpaper
-            author="mythi"
-			title="AdroDiomo"
+            author="Vishal "
+			title="Minimalistic2"
             url="http://sonic-developers.com/wallpapers/SOKP/m2.jpg" />
 
 		<wallpaper
-            author="mythi"
-			title="Evo"
+            author="Vishal"
+			title="Minimalistic3"
             url="http://sonic-developers.com/wallpapers/SOKP/m3.jpg" />
+
+		<wallpaper
+            author="Vishal"
+			title="Minimalistic4"
+            url="http://sonic-developers.com/wallpapers/SOKP/m4.jpg" />
 			
 			
 	</category>
 	    <category name="Random 2" >
 	
         <wallpaper
-            author="Audio God"
-			title="Dotas"
-            url="http://sonic-developers.com/wallpapers/SOKP/m4.jpg" />
+            author="Vishal"
+			title="Minimalistic5"
+            url="http://sonic-developers.com/wallpapers/SOKP/m5.jpg" />
         
 		<wallpaper
-            author="Mythi "
-			title="Dotas 2"
-            url="http://sonic-developers.com/wallpapers/SOKP/m5.jpg" />
-
-		<wallpaper
-            author="Mythi"
-			title="DaGy"
+            author="Vishal"
+			title="Minimalistic6"
             url="http://sonic-developers.com/wallpapers/SOKP/m6.jpg" />
 
 		<wallpaper
-            author="Audio God"
-			title="Get Ready"
+            author="Vishal"
+			title="IronMan"
             url="http://sonic-developers.com/wallpapers/SOKP/m7.jpg" />
-			
-		<wallpaper
-            author="Ashish Bansal"
-			title="Strips"
-            url="http://sonic-developers.com/wallpapers/SOKP/m8.jpg" />
 
 		<wallpaper
-            author="Mythi"
-			title="I-Drops"
-            url="http://sonic-developers.com/wallpapers/SOKP/m9.jpg" />			
+            author="Vishal"
+			title="Grass"
+            url="http://sonic-developers.com/wallpapers/SOKP/m8.jpg" />
+			
+		<wallpaper
+            author="Vishal"
+			title="Flowers"
+            url="http://sonic-developers.com/wallpapers/SOKP/m9.jpg" />
+
+		<wallpaper
+            author="Vishal"
+			title="Dragon"
+            url="http://sonic-developers.com/wallpapers/SOKP/m10.jpg" />			
 			
 	</category>
 </wallpapers>
